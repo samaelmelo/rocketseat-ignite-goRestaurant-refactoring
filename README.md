@@ -16,7 +16,7 @@
 
 <img align="center" src="./src/assets/App.png" slt="Go Restaurante" />
 
-<video src="./src/assets/App.mp4" width="100%" autoplay></video>
+<!-- <video src="./src/assets/App.mp4" width="100%" autoplay></video> -->
 
 ## 💻 Project
 
