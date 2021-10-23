@@ -18,7 +18,7 @@
 
 <!-- <video src="./src/assets/App.mp4" width="100%" autoplay></video> -->
 
-## 💻 Project
+## 💻 Projeto
 
 Go Restaurant é um aplicativo que administra seus pratos. Este é o quarto desafio de ReactJS desenvolvido no curso Ignite da [Rocketseat](https://rocketseat.com.br/).
 
@@ -29,7 +29,7 @@ Go Restaurant é um aplicativo que administra seus pratos. Este é o quarto desa
 - [x] Editar pratos
 - [x] Remover pratos
 
-## ✨ Technologies
+## ✨ Tecnologias
 
 Este projeto foi desenvolvido com as tecnologias abaixo:
 
@@ -44,7 +44,7 @@ Este projeto foi desenvolvido com as tecnologias abaixo:
 - [Unform](https://unform.dev)
 - [Yup](https://github.com/jquense/yup)
 
-## 🚀 How to execute
+## 🚀 Como executar o projeto
 
 - Clone o repositório
 - Instale as dependências com `yarn`
